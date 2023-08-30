@@ -1,0 +1,5 @@
+send-message.js
+register-commands.js
+config.js
+.env
+node_modules
